@@ -1,0 +1,11 @@
+Flask==2.2.2
+matplotlib==3.6.3
+numpy==1.24.1
+pandas==1.5.3
+opencv-python-headless==4.7.0.68
+Pillow==9.4.0
+pylint==2.15.10
+pytest==7.2.1
+scikit-learn==1.2.1
+scipy==1.10.0
+autopep8==2.0.1
