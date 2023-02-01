@@ -2,8 +2,6 @@ import cv2
 from flask import Flask
 from app import views
 
-
-
 app = Flask(__name__) # webserver gateway interphase (WSGI)
 
 app.add_url_rule(
