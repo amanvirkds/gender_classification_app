@@ -11,4 +11,5 @@ scipy==1.10.0
 autopep8==2.0.1
 packaging==21.3
 python-dateutil==2.8.2
-unicorn==1.0.3
+uvicorn
+gunicorn
